@@ -1,8 +1,8 @@
 My name is Jenny
 
-I'm 15 years old.
+I'm 12 years old.
 
-I was born in Ohio.
+I was born in Brooklyn, New York.
 
 My favorite color is blue.
 
